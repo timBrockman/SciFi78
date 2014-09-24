@@ -1,9 +1,7 @@
 SciFi78
 =======
 
-A 70's future Typeface
-
-This is still a work in progress.
+A 70's future Typeface from my early undergrad days.
 
 ---------------------------------------------------------------------------------
 (c) Copyright 2012 Tim Brockman
